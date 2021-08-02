@@ -1,2 +1,3 @@
 # LENDING-DATA-
-This a lending data project file and have uploaded even the excel file to it and the cleaned file too.  
+This a lending data project file and have uploaded the cleaned and uncleaned file to it 
+activity performed in this file : Cleaning the file 
